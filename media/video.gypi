@@ -28,6 +28,7 @@
   },
   'include_dirs': [
     '<(DEPTH)/third_party/libva',
+    '<(DEPTH)/third_party/mesa/src/include',
     '<(output_root)',
     '<(SHARED_INTERMEDIATE_DIR)/ui/gl',
   ],
